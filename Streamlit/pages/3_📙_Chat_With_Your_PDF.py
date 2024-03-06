@@ -2,7 +2,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 # embed streamlit docs in a streamlit app
-components.iframe("http://10.255.28.43:5174/", height=500, width=900, scrolling=False)
+components.iframe("http://10.254.213.127:5174/", height=650, width=900, scrolling=False)
 
 st.markdown(
     """
